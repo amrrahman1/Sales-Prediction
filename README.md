@@ -1,5 +1,5 @@
-## Project Name :
-# Sales Prediction
+
+# Sales Prediction Project
 ### The Project
 The project consisted of 5 assignments for the data science course at Coding Dojo.
 This project was a continuous project while studying python and machine learning.
